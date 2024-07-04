@@ -131,6 +131,8 @@ nav button {
 }
 
 .box2_buttons {
+  margin-top: 20px;
+  margin-bottom: 30px;
   display: flex;
   flex-direction: row;
   justify-content: center;
@@ -139,7 +141,7 @@ nav button {
 }
 
 .main input {
-  padding: 7px 101px 8px 14px;
+  padding: 9px 114px 12px 18px;
   font-size: 12px;
   border-radius: 4px;
   background-color: rgba(23, 23, 23, 0.15);
